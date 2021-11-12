@@ -1,3 +1,3 @@
 # Microsoft-Clone
 
-<img src="img/Screenshot (23)" width="100">
+<img src="img/Screenshot (23).png">
